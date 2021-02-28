@@ -1,0 +1,16 @@
+*{
+    font-family: serif;
+}
+.display-1 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+#ans {
+    font-size: 1.8rem;
+    font-weight: 300;
+    text-align: center;
+}
